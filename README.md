@@ -1,12 +1,12 @@
 # Spotify Remote
 
-[![Latest Release](https://img.shields.io/github/v/release/TONY-STANK/SpotifyDeskThing?label=latest)](https://github.com/TONY-STANK/SpotifyDeskThing/releases/latest)
+[![Latest Release](https://github.com/SpotifyDeskThing/SpotifyDeskThing/releases)
 
 A small native Android remote for Spotify playback on the same phone. The app reads Spotify's Android media session for the current track and sends standard Android playback controls. It does not ask for Spotify account credentials.
 
 ## Download
 
-Grab the latest APK from the [Releases page](https://github.com/TONY-STANK/SpotifyDeskThing/releases/latest) and install it on any Android 8.0+ device.
+Grab the latest APK from the [Releases page](https://github.com/SpotifyDeskThing/SpotifyDeskThing/releases) and install it on any Android 8.0+ device.
 
 1. Tap the **app-release.apk** link on the Releases page to download.
 2. Open the downloaded file on your phone. Android will ask for permission to install apps from this source — allow it.
